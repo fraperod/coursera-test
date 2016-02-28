@@ -40,7 +40,7 @@ h1{
 	padding-top: 15px;
 	padding-left: 15px;
 	padding-right: 15px;
-	padding-bottom: 0px;
+	padding-bottom: 10px;
  }
 
 
@@ -56,6 +56,8 @@ h1{
  	margin: -1px -1px 0px 0px;
  	width: 10em;
  	font-size: 1.25em;
+ 	padding-top: 5px;
+ 	padding-bottom: 5px;
 }
 
 /*Different colors for different titles*/
