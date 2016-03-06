@@ -1,0 +1,53 @@
+.navbar{
+	background-color: #8e44ad;
+}
+
+/* Brand name*/
+.navbar-brand h1{
+	padding: 0px;
+	margin: 0px;
+	font-size:1.5em;
+	text-decoration: none;
+	color: white;
+}
+
+ .container .navbar{
+	padding: 0px;
+	margin-left: 15px;
+	margin-right: 5px
+}
+
+#nav-list{
+	margin:0px;
+	background-color: #e67e22;
+}
+
+#collapsable-nav{
+	padding: 0px;
+}
+
+#collapsable-nav a{
+	color: white;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c0392b;
+}
+
+#collapsable-nav a:hover{
+	background-color: #f1c40f;
+}
+
+#textSection{
+	height: 1000px;
+	background-color: #2ecc71;
+	color:white;
+}
+
+#textSection>h3{
+	padding-top: 10px;
+}
+
+#textSection>p{
+	padding: 0px 10px 5px 10px;
+
+}
